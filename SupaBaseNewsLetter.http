@@ -1,0 +1,6 @@
+@SupaBaseNewsLetter_HostAddress = http://localhost:5161
+
+GET {{SupaBaseNewsLetter_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
